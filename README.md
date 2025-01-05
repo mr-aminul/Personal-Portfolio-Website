@@ -6,10 +6,6 @@ Welcome to this portfolio website template! This project is designed to help you
 
 ---
 
-# How does it look?
-![image](https://github.com/user-attachments/assets/8628be06-3ade-4e59-8b90-58f99629dcbb)
-
-
 ## Features
 
 - A **hero section** with a modern glitch effect for the name.
@@ -18,6 +14,11 @@ Welcome to this portfolio website template! This project is designed to help you
 - **Modal popups** to view detailed job responsibilities and accomplishments.
 - A functional **contact form** ready for basic validation.
 - Clean, responsive design that adapts to all devices.
+
+---
+
+# How does it look?
+![image](https://github.com/user-attachments/assets/8e278a2f-28d0-4eb8-b48f-7d42e580dfe0)
 
 ---
 
